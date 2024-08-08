@@ -9,6 +9,8 @@ build_search_index = false
 
 title = "tyler.dev"
 
+author = "Tyler Anton"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -16,5 +18,4 @@ highlight_code = true
 
 [extra]
 subtitle = "Always learning, always tinkering."
-author = "Tyler Anton"
 email = "tylerdotdev@gmail.com"
